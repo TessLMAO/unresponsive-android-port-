@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"unresponsive",
+			"fatal-sonic",
+			[
+				235,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "majin",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"hey",
+		"hey",
+		"majin"
+	],
+	"storyName": "guess",
+	"weekName": "what",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
