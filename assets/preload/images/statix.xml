@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="statix.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="statixx0000" x="10" y="10" width="500" height="375"/>
+	<SubTexture name="statixx0001" x="10" y="10" width="500" height="375"/>
+	<SubTexture name="statixx0002" x="510" y="10" width="500" height="375"/>
+	<SubTexture name="statixx0003" x="510" y="10" width="500" height="375"/>
+	<SubTexture name="statixx0004" x="1010" y="10" width="500" height="375"/>
+	<SubTexture name="statixx0005" x="1010" y="10" width="500" height="375"/>
+	<SubTexture name="statixx0006" x="1510" y="10" width="500" height="375"/>
+	<SubTexture name="statixx0007" x="1510" y="10" width="500" height="375"/>
+</TextureAtlas>
